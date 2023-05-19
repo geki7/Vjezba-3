@@ -1,0 +1,15 @@
+C:\Users\ivang\Desktop\Kino1\Kino1\bin\Debug\net6.0\Kino1.exe
+C:\Users\ivang\Desktop\Kino1\Kino1\bin\Debug\net6.0\Kino1.deps.json
+C:\Users\ivang\Desktop\Kino1\Kino1\bin\Debug\net6.0\Kino1.runtimeconfig.json
+C:\Users\ivang\Desktop\Kino1\Kino1\bin\Debug\net6.0\Kino1.dll
+C:\Users\ivang\Desktop\Kino1\Kino1\bin\Debug\net6.0\Kino1.pdb
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.AssemblyInfoInputs.cache
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.AssemblyInfo.cs
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.dll
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\refint\Kino1.dll
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.pdb
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\Kino1.genruntimeconfig.cache
+C:\Users\ivang\Desktop\Kino1\Kino1\obj\Debug\net6.0\ref\Kino1.dll
